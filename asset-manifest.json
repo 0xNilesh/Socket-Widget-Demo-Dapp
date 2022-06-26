@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Socket-Widget-Demo-Dapp/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/Socket-Widget-Demo-Dapp/static/js/main.221bb113.chunk.js",
+    "main.js.map": "/Socket-Widget-Demo-Dapp/static/js/main.221bb113.chunk.js.map",
+    "runtime-main.js": "/Socket-Widget-Demo-Dapp/static/js/runtime-main.d5357eeb.js",
+    "runtime-main.js.map": "/Socket-Widget-Demo-Dapp/static/js/runtime-main.d5357eeb.js.map",
+    "static/js/2.884cf436.chunk.js": "/Socket-Widget-Demo-Dapp/static/js/2.884cf436.chunk.js",
+    "static/js/2.884cf436.chunk.js.map": "/Socket-Widget-Demo-Dapp/static/js/2.884cf436.chunk.js.map",
+    "static/js/3.6e37301c.chunk.js": "/Socket-Widget-Demo-Dapp/static/js/3.6e37301c.chunk.js",
+    "static/js/3.6e37301c.chunk.js.map": "/Socket-Widget-Demo-Dapp/static/js/3.6e37301c.chunk.js.map",
+    "index.html": "/Socket-Widget-Demo-Dapp/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/Socket-Widget-Demo-Dapp/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.884cf436.chunk.js.LICENSE.txt": "/Socket-Widget-Demo-Dapp/static/js/2.884cf436.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5357eeb.js",
+    "static/js/2.884cf436.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.221bb113.chunk.js"
+  ]
+}
